@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Victor Tolbert <victor.tolbert@gmail.com> (http://victortolbert.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vticonsulting/boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vticonsulting/boilerplate/issues"
+  },
+  "homepage": "https://github.com/vticonsulting/boilerplate#readme"
 }
